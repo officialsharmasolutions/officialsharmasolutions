@@ -2,13 +2,18 @@
   <img src="child.png" width="30%" style="border-radius:12px;"/>
 </p>
 
-<h1 align="center" style="color:#00d1b2;">STech Computer Education</h1>
-<small align="center" style="color:#00d1b2;">A Venture of Sharma Solutions</small>
+<h1 align="center" style="color:#00d1b2; font-size:60px; font-family: Verdana, sans-serif; font-weight:bold;">
+  STech Computer Education
+</h1>
+
+<p align="center">
+  <small style="color:#00d1b2;">A Venture of Sharma Solutions</small>
+</p>
 
 <p align="center">
   <strong style="color:#ffffff;">Computer Education & Coding: Web Development, Python, C, C++, and More</strong><br/>
   <em style="color:#9ca3af;">Building skills. Building careers.</em>
-</p> small not align in center
+</p>
 
 ## 💻 About Us
 
