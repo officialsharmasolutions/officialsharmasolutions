@@ -64,15 +64,7 @@ We **regularly update** this repository with coding examples, mini-projects, and
 
 ---
 
-## 📊 GitHub Activity (Badges)
 
-<p align="center">
-  ![GitHub Stars](https://img.shields.io/github/stars/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
-  ![GitHub Forks](https://img.shields.io/github/forks/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
-  ![GitHub Followers](https://img.shields.io/github/followers/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
-  ![Top Language](https://img.shields.io/github/languages/top/officialsharmasolutions/YOUR_REPO?style=for-the-badge&color=00d1b2&logo=github)  
-</p>
->
 
 ---
 
