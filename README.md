@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="child.png" width="70%" style="border-radius:12px;"/>
+  <img src="child.png" width="10%" style="border-radius:12px;"/>
 </p>
 
 <h1 align="center" style="color:#00d1b2; font-weight:bold;">
