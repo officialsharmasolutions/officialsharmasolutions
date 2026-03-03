@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center" style="color:#00d1b2;">STech Computer Education</h1>
-
-<p align="center">
   <small style="color:#00d1b2;">A Venture of Sharma Solutions</small>
-</p>
+
+
+
 
 <p align="center">
   <strong style="color:#ffffff;">Computer Education & Coding: Web Development, Python, C, C++, and More</strong><br/>
