@@ -2,7 +2,9 @@
   <img src="child.png" width="30%" style="border-radius:12px;"/>
 </p>
 
-<h1 align="center" style="color:#00d1b2;">STech Computer Education</h1>
+<h1 align="center" style="color:#00d1b2; font-size:60px; font-family: Verdana, sans-serif; font-weight:bold;">
+  STech Computer Education
+</h1>
 <small align="center" style="color:#00d1b2;">A Venture of Sharma Solutions</small>
 
 <p align="center">
