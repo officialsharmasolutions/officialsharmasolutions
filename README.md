@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" style="border-radius:12px;"/>
+  <img src="banner.png" width="10%" style="border-radius:12px;"/>
 </p>
 
 <h1 align="center" style="color:#00d1b2;">STech Computer Education</h1>
