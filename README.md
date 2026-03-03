@@ -6,7 +6,7 @@
 
 ## 💻 About Us
 
-Official GitHub profile of **STech Computer Education** (A Venture of Sharma Solutions) – providing computer education, coding courses, and **hands-on real-world projects** in **Web Development, Python, C, and C++**.
+ **STech Computer Education** (A Venture of Sharma Solutions) – providing computer education, coding courses, and **hands-on real-world projects** in **Web Development, Python, C, and C++**.
 
 ---
 
