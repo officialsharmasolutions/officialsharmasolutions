@@ -76,8 +76,8 @@ We **regularly update** this repository with coding examples, mini-projects, and
 ## 🔗 Connect With Us
 
 <p align="center">
-  🌐 Website: [YourWebsite.com](https://yourwebsite.com) &nbsp; | &nbsp;
-  📩 Email: [info@stech.com](mailto:info@stech.com)
+  🌐 Website: https://sharmasolutions.in &nbsp; | &nbsp;
+  📩 Email: info@sharmasolutions.in
 </p>
 
 ---
