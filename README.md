@@ -3,10 +3,10 @@
   <img src="banner.png" width="100%" style="border-radius:12px;" />
 </p>
 
-<h1 align="center" style="color:#00d1b2;">STech Computer Education</h1>
+<h1 align="center" style="color:#00d1b2; margin-top:-300px; position:relative;">STech Computer Education</h1>
 
 <p align="center">
-  <small style="color:#00d1b2;">A Venture of Sharma Solutions</small>
+  <small style=" color:#ffffff; margin-top:-10px; font-size:16px;;">A Venture of Sharma Solutions</small>
 </p>
 
 <p align="center">
