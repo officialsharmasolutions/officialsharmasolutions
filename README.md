@@ -64,12 +64,15 @@ We **regularly update** this repository with coding examples, mini-projects, and
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity (Badges)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunsharmafsd&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsharmasolutions&layout=compact&theme=radical&hide_border=true" width="48%" />
+  ![GitHub Stars](https://img.shields.io/github/stars/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
+  ![GitHub Forks](https://img.shields.io/github/forks/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
+  ![GitHub Followers](https://img.shields.io/github/followers/officialsharmasolutions?style=for-the-badge&color=00d1b2&logo=github)  
+  ![Top Language](https://img.shields.io/github/languages/top/officialsharmasolutions/YOUR_REPO?style=for-the-badge&color=00d1b2&logo=github)  
 </p>
+>
 
 ---
 
