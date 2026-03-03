@@ -67,7 +67,7 @@ We **regularly update** this repository with coding examples, mini-projects, and
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialsharmasolutions&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunsharmafsd&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsharmasolutions&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
