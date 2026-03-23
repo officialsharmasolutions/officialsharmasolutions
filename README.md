@@ -43,22 +43,7 @@
 
 Explore demo projects, practice exercises, and example code for learners in **Web Development, Python, C, and C++**.  
 
-We **regularly update** this repository with coding examples, mini-projects, and educational resources for hands-on practice.
-
-### 🔹 Example Projects
-
-| Category | Examples |
-|----------|----------|
-| 🌐 **Web Development** | Portfolio Website, Landing Page, React Mini App |
-| 🐍 **Python** | Automation Scripts, CLI Tools, Mini Projects |
-| 💻 **C Programming** | Logic Programs, Pattern Exercises |
-| ⚡ **C++ OOP** | Class-Based Mini Projects, Systems Examples |
-
-> **Tip:** All projects are designed for **hands-on learning** and **practical experience**.
-
----
-
-
+We **update** this repository with coding examples, mini-projects, and educational resources for hands-on practice.
 
 ---
 
